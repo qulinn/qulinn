@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @AiustQu
-- 🌱 I’m currently learning about machine learning
+- 👋 Hi, I’m @aiustQu
+- 🌱 I’m currently learning about image segmentation, machine learning, and data sciende.
